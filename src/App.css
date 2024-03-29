@@ -145,3 +145,9 @@ h1 {
 .edit-icon {
   color: #fff;
 }
+
+.complete-icon,
+.delete-icon {
+  background: transparent;
+  border: none;
+}
